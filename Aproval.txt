@@ -1,10 +1,1 @@
-8c28290d8c8144e69160f45249c4ea578
-d9bb46fbadf64bd68be943b1335082578
-da5a0e470d844db4a0d731bf8d6121578pip install requests
-
-pkg install requests
-
-pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests
-
-
-pip install httpx
+2e92ea48c8364687b329ee1952e648578
